@@ -15,8 +15,6 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* GDRNewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* GDRNewTests.m */; };
-		C8CA91F3975E44E3886D5ECE /* ProximaNova-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8155690CF86349F8843FBCD7 /* ProximaNova-Black.otf */; };
-		BD136398CC234E2D9866F889 /* ProximaNova-Black.otf in Resources */ = {isa = PBXBuildFile; fileRef = 51654D22EA9C41C6963F17E9 /* ProximaNova-Black.otf */; };
 		4B8CED71322F48FEBF394F1C /* ProximaNova-Black.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 806526219E734F4B8E5969BE /* ProximaNova-Black.ttf */; };
 		28669A93C60F4BB88FA46FA1 /* ProximaNova-Extrabld.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1947B7C8AAC64F39BDD72C19 /* ProximaNova-Extrabld.ttf */; };
 		F4EE1D26839247A3837E3BB4 /* ProximaNova-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A9C03E31BCFE41CBA3D32BE8 /* ProximaNova-Bold.ttf */; };
@@ -59,8 +57,6 @@
 		2D02E4901E0B4A5D006451C7 /* GDRNew-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GDRNew-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
-		8155690CF86349F8843FBCD7 /* ProximaNova-Black.otf */ = {isa = PBXFileReference; name = "ProximaNova-Black.otf"; path = "../assets/fonts/ProximaNova-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		51654D22EA9C41C6963F17E9 /* ProximaNova-Black.otf */ = {isa = PBXFileReference; name = "ProximaNova-Black.otf"; path = "../src/assets/fonts/ProximaNova-Black.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		806526219E734F4B8E5969BE /* ProximaNova-Black.ttf */ = {isa = PBXFileReference; name = "ProximaNova-Black.ttf"; path = "../assets/fonts/ProximaNova-Black.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		1947B7C8AAC64F39BDD72C19 /* ProximaNova-Extrabld.ttf */ = {isa = PBXFileReference; name = "ProximaNova-Extrabld.ttf"; path = "../assets/fonts/ProximaNova-Extrabld.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 		A9C03E31BCFE41CBA3D32BE8 /* ProximaNova-Bold.ttf */ = {isa = PBXFileReference; name = "ProximaNova-Bold.ttf"; path = "../assets/fonts/ProximaNova-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
@@ -178,8 +174,6 @@
 		8A70B1C73F3A4912B473D392 /* Resources */ = {
 			isa = "PBXGroup";
 			children = (
-				8155690CF86349F8843FBCD7 /* ProximaNova-Black.otf */,
-				51654D22EA9C41C6963F17E9 /* ProximaNova-Black.otf */,
 				806526219E734F4B8E5969BE /* ProximaNova-Black.ttf */,
 				1947B7C8AAC64F39BDD72C19 /* ProximaNova-Extrabld.ttf */,
 				A9C03E31BCFE41CBA3D32BE8 /* ProximaNova-Bold.ttf */,
@@ -328,8 +322,6 @@
 			files = (
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */,
-				C8CA91F3975E44E3886D5ECE /* ProximaNova-Black.otf in Resources */,
-				BD136398CC234E2D9866F889 /* ProximaNova-Black.otf in Resources */,
 				4B8CED71322F48FEBF394F1C /* ProximaNova-Black.ttf in Resources */,
 				28669A93C60F4BB88FA46FA1 /* ProximaNova-Extrabld.ttf in Resources */,
 				F4EE1D26839247A3837E3BB4 /* ProximaNova-Bold.ttf in Resources */,

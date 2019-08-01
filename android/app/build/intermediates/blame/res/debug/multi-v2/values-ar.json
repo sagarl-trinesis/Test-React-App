@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/user/Desktop/MobileApp-3.0/GDRNew/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
+            "outputFile": "/home/user/Desktop/Test_React_App3.0/Test-React-App/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ar/values-ar.xml",
             "map": [
                 {
                     "source": "/home/user/.gradle/caches/transforms-2/files-2.1/e9f811a02bb2004b9d32a8dd2f8095c3/res/values-ar/values-ar.xml",
